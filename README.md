@@ -1,7 +1,7 @@
 chesapeake_mhw
 ==============================
 
-This repository contains code to support the publication Spatial Variability of Marine Heatwaves in the Chesapeake Bay. A preprint is available [here](https://doi.org/10.31223/X5299J) (DOI: 10.31223/X5299J). It has been submitted for review to the journal Estuaries and Coasts.
+This repository contains code to support the publication Spatial Variability of Marine Heatwaves in the Chesapeake Bay. It was published in the journal Estuaries and Coasts on May 23rd, 2025 (DOI: [10.1007/s12237-025-01546-9](https://doi.org/10.1007/s12237-025-01546-9).
 
 ### Data Availability
 
