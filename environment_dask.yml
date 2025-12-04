@@ -1,11 +1,11 @@
-name: chesapeake_mhw
+name: chesapeake_mhw_dask
 channels:
   - conda-forge
   - defaults
 dependencies:
   - cartopy
   - copernicusmarine
-  - dask
+  - dask<=2021.10.0
   - geocube
   - geopandas
   - ipykernel
